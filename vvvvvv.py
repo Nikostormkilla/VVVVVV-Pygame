@@ -59,7 +59,7 @@ logo = pygame.image.load("./assets/logo.png").convert()
 logo.set_colorkey(BLACK)
 
 # Pre-render some text since it never changes
-subtitle = font.render("Pygame Edition", 1, (0, 255, 255))
+subtitle = font.render("VERDIGRIS EDITION", 1, (0, 255, 255))
 levelSelect = font.render("Select Stage", 1, (0, 255, 255))
 
 # levels.vvvvvv is a JSON file which stores the names and folders of each level
