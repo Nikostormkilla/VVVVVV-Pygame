@@ -1,4 +1,4 @@
-This is exactly what it is. You play as Verdigris and thats all what cahnges.
+This is exactly what it is. You play as Verdigris and thats all what changes. Also removed all batch files for safety reasons. Requires Python 3.0 or above and Pygame as well just like the original repository.
 
 Original repository is GDColon/VVVVVV-Pygame
 
